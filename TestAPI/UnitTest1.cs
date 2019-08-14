@@ -11,7 +11,7 @@ namespace TestAPI
         {
             ValuesController control = new ValuesController();
             var result = control.Get(2000);
-            Assert.Equal(result, "Leap Year");
+            Assert.Equal("Leap Year",result);
         }
     }
 }
