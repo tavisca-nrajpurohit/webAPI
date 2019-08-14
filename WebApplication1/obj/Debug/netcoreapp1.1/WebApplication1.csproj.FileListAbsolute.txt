@@ -1,0 +1,11 @@
+C:\Users\nrajpurohit\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.deps.json
+C:\Users\nrajpurohit\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.runtimeconfig.json
+C:\Users\nrajpurohit\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\nrajpurohit\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.dll
+C:\Users\nrajpurohit\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.pdb
+C:\Users\nrajpurohit\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\nrajpurohit\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\nrajpurohit\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\nrajpurohit\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.AssemblyInfo.cs
+C:\Users\nrajpurohit\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.dll
+C:\Users\nrajpurohit\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.pdb

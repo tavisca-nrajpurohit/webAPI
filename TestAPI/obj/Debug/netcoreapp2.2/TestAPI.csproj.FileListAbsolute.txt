@@ -1,0 +1,16 @@
+C:\Users\nrajpurohit\source\repos\WebApplication1\TestAPI\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\nrajpurohit\source\repos\WebApplication1\TestAPI\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\nrajpurohit\source\repos\WebApplication1\TestAPI\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\nrajpurohit\source\repos\WebApplication1\TestAPI\bin\Debug\netcoreapp2.2\TestAPI.deps.json
+C:\Users\nrajpurohit\source\repos\WebApplication1\TestAPI\bin\Debug\netcoreapp2.2\TestAPI.runtimeconfig.json
+C:\Users\nrajpurohit\source\repos\WebApplication1\TestAPI\bin\Debug\netcoreapp2.2\TestAPI.runtimeconfig.dev.json
+C:\Users\nrajpurohit\source\repos\WebApplication1\TestAPI\bin\Debug\netcoreapp2.2\TestAPI.dll
+C:\Users\nrajpurohit\source\repos\WebApplication1\TestAPI\bin\Debug\netcoreapp2.2\TestAPI.pdb
+C:\Users\nrajpurohit\source\repos\WebApplication1\TestAPI\bin\Debug\netcoreapp2.2\WebApplication1.dll
+C:\Users\nrajpurohit\source\repos\WebApplication1\TestAPI\bin\Debug\netcoreapp2.2\WebApplication1.pdb
+C:\Users\nrajpurohit\source\repos\WebApplication1\TestAPI\obj\Debug\netcoreapp2.2\TestAPI.csprojResolveAssemblyReference.cache
+C:\Users\nrajpurohit\source\repos\WebApplication1\TestAPI\obj\Debug\netcoreapp2.2\TestAPI.csproj.CoreCompileInputs.cache
+C:\Users\nrajpurohit\source\repos\WebApplication1\TestAPI\obj\Debug\netcoreapp2.2\TestAPI.AssemblyInfoInputs.cache
+C:\Users\nrajpurohit\source\repos\WebApplication1\TestAPI\obj\Debug\netcoreapp2.2\TestAPI.AssemblyInfo.cs
+C:\Users\nrajpurohit\source\repos\WebApplication1\TestAPI\obj\Debug\netcoreapp2.2\TestAPI.dll
+C:\Users\nrajpurohit\source\repos\WebApplication1\TestAPI\obj\Debug\netcoreapp2.2\TestAPI.pdb
